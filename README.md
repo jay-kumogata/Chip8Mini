@@ -14,10 +14,10 @@ The focus is on pixel art in game cabinets.
 
 ## How to Play
 
-- (a) Install the Python3.8 (python-3.8.9.exe), which can be obtained from https://www.python.org/downloads/
+- (a) Install the Python3.8 (python-3.8.9.exe), which can be obtained from [here](https://www.python.org/downloads/)
 - (b) Install the Pyxel1.7.0 on Python from the command line:  
   - C> pip install pyxel
-- (c) Download a sample game (amabie.ch8), which can be obtained from https://github.com/jay-kumogata/RetroGames/tree/main/octo/amabie
+- (c) Download a sample game (amabie.ch8), which can be obtained from [here](https://github.com/jay-kumogata/PyxelChip8/tree/main/games/amabie)
 - (d) From the command line, run:
   - C> python Chip8Mini.py \<ROM file name\>
   - Example: C> python Chip8Mini.py amabie.ch8
